@@ -11,5 +11,10 @@ public class Dugu9jian {
         System.out.println("紫霞神功好");
         System.out.println("紫霞神功好");
         System.out.println("紫霞神功好");
+        System.out.println("独孤九剑好！！！！！");
+        System.out.println("独孤九剑好！！！！！");
+        System.out.println("独孤九剑好！！！！！");
+        System.out.println("独孤九剑好！！！！！");
+        System.out.println("独孤九剑好！！！！！");
     }
 }
